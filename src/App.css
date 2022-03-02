@@ -1,0 +1,18 @@
+* {
+  text-align: center;
+}
+
+.main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+p {
+  margin-bottom: 0px !important;
+}
+
+.ball h5 {
+  border: 1px solid black;
+  padding: 2px;
+}
